@@ -1,0 +1,6 @@
+aiogram
+environs
+peewee
+psycopg2-binary
+APScheduler
+xlsxwriter
